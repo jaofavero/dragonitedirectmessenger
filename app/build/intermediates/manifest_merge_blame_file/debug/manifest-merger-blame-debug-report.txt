@@ -1,0 +1,113 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.pdm"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\jvfav\Documents\Facul\PDM\DragoniteDelivery\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->C:\Users\jvfav\Documents\Facul\PDM\DragoniteDelivery\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Users\jvfav\Documents\Facul\PDM\DragoniteDelivery\app\src\main\AndroidManifest.xml:5:5-37:19
+12        android:allowBackup="true"
+12-->C:\Users\jvfav\Documents\Facul\PDM\DragoniteDelivery\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.8.0] C:\Users\jvfav\.gradle\caches\transforms-3\cbd2cea7a41c8b4414f86c37a63fa3c1\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+14        android:dataExtractionRules="@xml/data_extraction_rules"
+14-->C:\Users\jvfav\Documents\Facul\PDM\DragoniteDelivery\app\src\main\AndroidManifest.xml:7:9-65
+15        android:debuggable="true"
+16        android:fullBackupContent="@xml/backup_rules"
+16-->C:\Users\jvfav\Documents\Facul\PDM\DragoniteDelivery\app\src\main\AndroidManifest.xml:8:9-54
+17        android:icon="@mipmap/ic_launcher"
+17-->C:\Users\jvfav\Documents\Facul\PDM\DragoniteDelivery\app\src\main\AndroidManifest.xml:9:9-43
+18        android:label="dragonitedelivery"
+18-->C:\Users\jvfav\Documents\Facul\PDM\DragoniteDelivery\app\src\main\AndroidManifest.xml:10:9-42
+19        android:roundIcon="@mipmap/ic_launcher_round"
+19-->C:\Users\jvfav\Documents\Facul\PDM\DragoniteDelivery\app\src\main\AndroidManifest.xml:11:9-54
+20        android:supportsRtl="true"
+20-->C:\Users\jvfav\Documents\Facul\PDM\DragoniteDelivery\app\src\main\AndroidManifest.xml:12:9-35
+21        android:testOnly="true"
+22        android:theme="@style/Theme.AppCompat.DayNight" >
+22-->C:\Users\jvfav\Documents\Facul\PDM\DragoniteDelivery\app\src\main\AndroidManifest.xml:13:9-56
+23        <activity
+23-->C:\Users\jvfav\Documents\Facul\PDM\DragoniteDelivery\app\src\main\AndroidManifest.xml:15:9-21:20
+24            android:name="com.pdm.ChatActivity"
+24-->C:\Users\jvfav\Documents\Facul\PDM\DragoniteDelivery\app\src\main\AndroidManifest.xml:16:13-41
+25            android:exported="false" >
+25-->C:\Users\jvfav\Documents\Facul\PDM\DragoniteDelivery\app\src\main\AndroidManifest.xml:17:13-37
+26            <meta-data
+26-->C:\Users\jvfav\Documents\Facul\PDM\DragoniteDelivery\app\src\main\AndroidManifest.xml:18:13-20:36
+27                android:name="android.app.lib_name"
+27-->C:\Users\jvfav\Documents\Facul\PDM\DragoniteDelivery\app\src\main\AndroidManifest.xml:19:17-52
+28                android:value="" />
+28-->C:\Users\jvfav\Documents\Facul\PDM\DragoniteDelivery\app\src\main\AndroidManifest.xml:20:17-33
+29        </activity>
+30        <activity
+30-->C:\Users\jvfav\Documents\Facul\PDM\DragoniteDelivery\app\src\main\AndroidManifest.xml:22:9-36:20
+31            android:name="com.pdm.MainActivity"
+31-->C:\Users\jvfav\Documents\Facul\PDM\DragoniteDelivery\app\src\main\AndroidManifest.xml:23:13-41
+32            android:exported="true"
+32-->C:\Users\jvfav\Documents\Facul\PDM\DragoniteDelivery\app\src\main\AndroidManifest.xml:24:13-36
+33            android:label="dragonitedelivery"
+33-->C:\Users\jvfav\Documents\Facul\PDM\DragoniteDelivery\app\src\main\AndroidManifest.xml:25:13-46
+34            android:theme="@style/Theme.Dragonitedelivery.NoActionBar" >
+34-->C:\Users\jvfav\Documents\Facul\PDM\DragoniteDelivery\app\src\main\AndroidManifest.xml:26:13-71
+35            <intent-filter>
+35-->C:\Users\jvfav\Documents\Facul\PDM\DragoniteDelivery\app\src\main\AndroidManifest.xml:27:13-31:29
+36                <action android:name="android.intent.action.MAIN" />
+36-->C:\Users\jvfav\Documents\Facul\PDM\DragoniteDelivery\app\src\main\AndroidManifest.xml:28:17-69
+36-->C:\Users\jvfav\Documents\Facul\PDM\DragoniteDelivery\app\src\main\AndroidManifest.xml:28:25-66
+37
+38                <category android:name="android.intent.category.LAUNCHER" />
+38-->C:\Users\jvfav\Documents\Facul\PDM\DragoniteDelivery\app\src\main\AndroidManifest.xml:30:17-77
+38-->C:\Users\jvfav\Documents\Facul\PDM\DragoniteDelivery\app\src\main\AndroidManifest.xml:30:27-74
+39            </intent-filter>
+40
+41            <meta-data
+41-->C:\Users\jvfav\Documents\Facul\PDM\DragoniteDelivery\app\src\main\AndroidManifest.xml:18:13-20:36
+42                android:name="android.app.lib_name"
+42-->C:\Users\jvfav\Documents\Facul\PDM\DragoniteDelivery\app\src\main\AndroidManifest.xml:19:17-52
+43                android:value="" />
+43-->C:\Users\jvfav\Documents\Facul\PDM\DragoniteDelivery\app\src\main\AndroidManifest.xml:20:17-33
+44        </activity>
+45
+46        <uses-library
+46-->[androidx.window:window:1.0.0] C:\Users\jvfav\.gradle\caches\transforms-3\3c65846e402a3018f0157401bd77d39f\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+47            android:name="androidx.window.extensions"
+47-->[androidx.window:window:1.0.0] C:\Users\jvfav\.gradle\caches\transforms-3\3c65846e402a3018f0157401bd77d39f\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+48            android:required="false" />
+48-->[androidx.window:window:1.0.0] C:\Users\jvfav\.gradle\caches\transforms-3\3c65846e402a3018f0157401bd77d39f\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+49        <uses-library
+49-->[androidx.window:window:1.0.0] C:\Users\jvfav\.gradle\caches\transforms-3\3c65846e402a3018f0157401bd77d39f\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+50            android:name="androidx.window.sidecar"
+50-->[androidx.window:window:1.0.0] C:\Users\jvfav\.gradle\caches\transforms-3\3c65846e402a3018f0157401bd77d39f\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+51            android:required="false" />
+51-->[androidx.window:window:1.0.0] C:\Users\jvfav\.gradle\caches\transforms-3\3c65846e402a3018f0157401bd77d39f\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+52
+53        <provider
+53-->[androidx.emoji2:emoji2:1.2.0] C:\Users\jvfav\.gradle\caches\transforms-3\b1c61a6361eb3f20cddda173d67f4de2\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+54            android:name="androidx.startup.InitializationProvider"
+54-->[androidx.emoji2:emoji2:1.2.0] C:\Users\jvfav\.gradle\caches\transforms-3\b1c61a6361eb3f20cddda173d67f4de2\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+55            android:authorities="com.pdm.androidx-startup"
+55-->[androidx.emoji2:emoji2:1.2.0] C:\Users\jvfav\.gradle\caches\transforms-3\b1c61a6361eb3f20cddda173d67f4de2\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+56            android:exported="false" >
+56-->[androidx.emoji2:emoji2:1.2.0] C:\Users\jvfav\.gradle\caches\transforms-3\b1c61a6361eb3f20cddda173d67f4de2\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+57            <meta-data
+57-->[androidx.emoji2:emoji2:1.2.0] C:\Users\jvfav\.gradle\caches\transforms-3\b1c61a6361eb3f20cddda173d67f4de2\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+58                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+58-->[androidx.emoji2:emoji2:1.2.0] C:\Users\jvfav\.gradle\caches\transforms-3\b1c61a6361eb3f20cddda173d67f4de2\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+59                android:value="androidx.startup" />
+59-->[androidx.emoji2:emoji2:1.2.0] C:\Users\jvfav\.gradle\caches\transforms-3\b1c61a6361eb3f20cddda173d67f4de2\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+60            <meta-data
+60-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\jvfav\.gradle\caches\transforms-3\025ed7849c6f43c10d9a6c1cd4d240b1\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+61                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+61-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\jvfav\.gradle\caches\transforms-3\025ed7849c6f43c10d9a6c1cd4d240b1\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+62                android:value="androidx.startup" />
+62-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\jvfav\.gradle\caches\transforms-3\025ed7849c6f43c10d9a6c1cd4d240b1\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+63        </provider>
+64    </application>
+65
+66</manifest>

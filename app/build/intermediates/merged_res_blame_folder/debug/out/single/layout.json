@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\jvfav\\.gradle\\daemon\\7.4\\com.pdm.app-mergeDebugResources-44:\\layout\\mensagem_enviada_activity.xml",
+        "source": "C:\\Users\\jvfav\\.gradle\\daemon\\7.4\\com.pdm.app-main-47:\\layout\\mensagem_enviada_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\jvfav\\.gradle\\daemon\\7.4\\com.pdm.app-mergeDebugResources-44:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\jvfav\\.gradle\\daemon\\7.4\\com.pdm.app-main-47:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\jvfav\\.gradle\\daemon\\7.4\\com.pdm.app-mergeDebugResources-44:\\layout\\card_activity.xml",
+        "source": "C:\\Users\\jvfav\\.gradle\\daemon\\7.4\\com.pdm.app-main-47:\\layout\\card_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\jvfav\\.gradle\\daemon\\7.4\\com.pdm.app-mergeDebugResources-44:\\layout\\content_main.xml",
+        "source": "C:\\Users\\jvfav\\.gradle\\daemon\\7.4\\com.pdm.app-main-47:\\layout\\content_main.xml"
+    },
+    {
+        "merged": "com.pdm.app-mergeDebugResources-44:/layout/activity_chat.xml",
+        "source": "com.pdm.app-main-47:/layout/activity_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\jvfav\\.gradle\\daemon\\7.4\\com.pdm.app-mergeDebugResources-44:\\layout\\activity_chat.xml",
+        "source": "C:\\Users\\jvfav\\.gradle\\daemon\\7.4\\com.pdm.app-main-47:\\layout\\activity_chat.xml"
+    }
+]
